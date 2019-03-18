@@ -689,8 +689,8 @@ dependencies:
   - zlib
 - name: php
   version: 7.2.16
-  uri: https://buildpacks.cloudfoundry.org/dependencies/php/php7-7.2.16-linux-x64-cflinuxfs3-d5df7980.tgz
-  sha256: d5df79808b246afbcb470cd94fab5a90682661fcb745f9edd1c5759f0eeda4f8
+  uri: https://storage.googleapis.com/sitcomhub-test/php-7.2.16-linux-x64.tgz
+  sha256: 874e5911480c8f2f4d14ecb38b2a988c7025c180ac1c10ff75fe8c63a3bbe2a6
   cf_stacks:
   - cflinuxfs3
   source: https://php.net/distributions/php-7.2.16.tar.gz
