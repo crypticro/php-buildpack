@@ -726,6 +726,8 @@ dependencies:
   - msgpack
   - mysqli
   - oauth
+  - oci8
+  - oci8_pdo
   - opcache
   - openssl
   - pcntl
