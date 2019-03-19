@@ -693,8 +693,6 @@ dependencies:
   sha256: 874e5911480c8f2f4d14ecb38b2a988c7025c180ac1c10ff75fe8c63a3bbe2a6
   cf_stacks:
   - cflinuxfs3
-  source: https://php.net/distributions/php-7.2.16.tar.gz
-  source_sha256: fb95e0bb69caba1dfd3bbac4eeef7a0485e5ea3d6191d35ad5657e18243aa02d
   modules:
   - amqp
   - apcu
