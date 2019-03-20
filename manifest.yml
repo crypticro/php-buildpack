@@ -694,6 +694,7 @@ dependencies:
   cf_stacks:
   - cflinuxfs3
   modules:
+  - argon2
   - amqp
   - apcu
   - bz2
