@@ -690,7 +690,7 @@ dependencies:
 - name: php
   version: 7.2.16
   uri: https://storage.googleapis.com/sitcomhub-test/php-7.2.16-linux-x64.tgz
-  sha256: 874e5911480c8f2f4d14ecb38b2a988c7025c180ac1c10ff75fe8c63a3bbe2a6
+  sha256: a4b572601a92b068814cc2292d89c7021e057a090e50c224de2a946ae606bcc0
   cf_stacks:
   - cflinuxfs3
   modules:
